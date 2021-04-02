@@ -1,2 +1,2 @@
 # Weightloss
-A code that calculates someone's weight loss per month
+A code that calculates a person's weight loss per month
